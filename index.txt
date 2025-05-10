@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bonsoir tout le monde ici c'est richard
+=======
+bonsoir tout le monde ici c'est toto le grand
+>>>>>>> update-index
